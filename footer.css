@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&family=Roboto&family=Tilt+Prism&display=swap');
+*{
+    background-color: #F5F5F5;
+    font-family: 'Roboto', sans-serif;
+    
+}
+.p{
+    display: flex;
+    justify-content: space-around;
+
+}
+.p1{
+    display: flex;
+    flex-direction: column;
+   width: 250px;
+  
+  
+    
+}
+.button{
+    border-radius: 50px;
+    background-color: black;
+    color: white;
+    width: 100px;
+    font-size: 10px;
+    font-weight: 900;
+    padding: 10px;
+}
+.seemore{
+    text-decoration: underline;
+    color: #5E4D48;
+}
+.logo{
+    margin-top: 90px;
+    margin-left: 35px;
+    display: flex;
+    justify-content: space-around;
+    width: 300px;
+}
+.fac{
+    margin-top: 0px;
+}
+.px{
+    color: #5E4D48;
+}
+.country{
+    margin-left: 1000px;
+    border: 2px solid black;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 10px;
+    width: 150px;
+}
+.line{
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    color: azure;
+}
+.footer{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-size: 10px;
+}
